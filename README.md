@@ -13,6 +13,7 @@ Here's a youtube link to my project! https://www.youtube.com/watch?v=v5Z2NzYs9ko
 3. Assemble Arduino according to breadboard schematic
 
 ![](https://github.com/Jphamster101/Arduino-Security-System/blob/master/schematic.PNG)
+
 4. While in the Arduino environment and having the file opened, upload code to the Arduino
 
 5. Enjoy your new security bot!
